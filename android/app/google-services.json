@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "884339378741",
+    "project_id": "manglam-6261b",
+    "storage_bucket": "manglam-6261b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:884339378741:android:4d9c4fd3a1cd0e4eacff7c",
+        "android_client_info": {
+          "package_name": "com.mangalamapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9jbBwe2uOVQVVg3XNJC34ZH070RE8rQQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

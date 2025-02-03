@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "326532811103",
+    "project_id": "rishabh-super-shopy",
+    "storage_bucket": "rishabh-super-shopy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:326532811103:android:7e63581a8ef83f1eb10eea",
+        "android_client_info": {
+          "package_name": "com.mangalamapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "326532811103-i4e66rd8v4hfj74ig7hm1stkpcpk388h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGyPLUftWBqDs4iSg3RbnZtxKGGkpYvks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "326532811103-i4e66rd8v4hfj74ig7hm1stkpcpk388h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
